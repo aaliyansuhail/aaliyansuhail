@@ -1,3 +1,6 @@
+![logo](https://github.com/aaliyansuhail/aaliyansuhail/blob/main/github%20banner.webp )
+
+
 <h1 align="center">Hi 👋, I'm Aaliyan suhail</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
