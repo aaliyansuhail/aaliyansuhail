@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaliyansuhail&label=Profile%20views&color=0e75b6&style=flat" alt="aaliyansuhail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaliyansuhail" alt="aaliyansuhail" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaliyansuhail" alt="aaliyansuhail" padding="10px" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -26,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaliyansuhail&show_icons=true&locale=en&layout=compact" alt="aaliyansuhail" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaliyansuhail&show_icons=true&locale=en" alt="aaliyansuhail" /></p>
+
